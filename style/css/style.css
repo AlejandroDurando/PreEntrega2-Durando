@@ -89,6 +89,10 @@ hr{
     font-family: 'Thasadith', sans-serif;
     text-transform: uppercase;
 }
+.navbar_2{
+    width: 100%;
+    justify-content: center;
+}
 
  /*Section Index*/
  .titulo__index{
@@ -197,19 +201,18 @@ hr{
 /*CONTACTO*/
 
 .section__form{
-    width: 800px ;
+    width: 600px ;
     height: 700px;
     border-radius: 10px;
     text-align: center;
     margin: 0 auto;
-    margin-top: 3rem;
-    padding-top: 2rem;
+    padding-top: 3rem;
     padding-left: 2rem;
     padding-bottom: 2rem;
     background-image: url(../css/img_css/fondo_lavanda.jpg);
     background-size: cover;
-    background-position: center;
-    box-shadow: 0px 10px 25px rgba(0, 0, 0, 0.9);
+    background-position: left;
+    box-shadow: 7px 5px 18px rgba(0, 0, 0, 0.9);
     
 }
 .form input[type="text"], input[type="email"], input[type="telefono"], input[type="telefono"]{
@@ -234,17 +237,18 @@ hr{
 }
 .nombre {
     font-family: 'Thasadith', sans-serif;
-    font-weight: lighter;
+    font-weight: bold;
     font-size: 1.5rem;
     text-align: left;
     padding-left: 1rem;
+    font-style: 
 }
 
 
 
 .email{
     font-family: 'Thasadith', sans-serif;
-    font-weight: lighter;
+    font-weight: bold;
     font-size: 1.5rem;
     padding: 1rem;
     text-align: left;
@@ -255,7 +259,7 @@ hr{
 }
 .telefono{
     font-family: 'Thasadith', sans-serif;
-    font-weight: lighter;
+    font-weight: bold;
     font-size: 1.5rem;
     padding: 1rem;
     text-align: left;
