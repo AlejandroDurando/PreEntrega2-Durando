@@ -12,6 +12,7 @@ body{
     background: linear-gradient(353deg, rgb(165, 114, 202) 0%, rgba(180,139,219,1) 51%, rgba(249,223,255,1) 100%);
 }
 /*navbar*/
+/*sin bootstrap*/
 
 nav .fa-bars{
     display: none;
@@ -40,6 +41,7 @@ hr{
     background-color: black;
 
 }
+
 .nav__list{
     display: flex;
     justify-content: center;
@@ -79,6 +81,13 @@ hr{
 }
 .nav__list li a {
     transition: color 0.2s linear 0.2s;
+}
+
+/*con bootstrap*/
+.nav-item{
+    font-size: 1.5rem;
+    font-family: 'Thasadith', sans-serif;
+    text-transform: uppercase;
 }
 
  /*Section Index*/
