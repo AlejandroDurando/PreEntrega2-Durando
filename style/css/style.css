@@ -9,7 +9,7 @@
 /*BODY*/
 body{
     background: rgb(169, 112, 209);
-    background: linear-gradient(353deg, rgb(165, 114, 202) 0%, rgba(180,139,219,1) 51%, rgba(249,223,255,1) 100%);
+    background: linear-gradient(353deg, rgb(187, 142, 219) 0%, rgb(186, 148, 222) 51%, rgba(249,223,255,1) 100%);
 }
 /*navbar*/
 /*sin bootstrap*/
