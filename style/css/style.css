@@ -116,8 +116,8 @@ hr{
  }
 
 .img{
-    height: 200px;
-    width: 200px;
+    height: 300px;
+    width: 300px;
     border-radius: 0.6rem;
     box-shadow: 6px 5px 10px rgba(0, 0, 0, 0.7);
 }
@@ -189,9 +189,8 @@ hr{
 
 /*NOSOTROS*/
 
-.tarjeta{
+.tarjeta__nosotros{
     text-align: center;
-    padding-top: 3rem;
 }
 .tarjeta__img{
     border-radius: 5rem;
